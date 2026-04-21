@@ -8,16 +8,13 @@
 
 ```text
 💬 Programming Languages: 
-Go                       35 mins             ████████████░░░░░░░░░░░░░   46.42 % 
-Other                    29 mins             ██████████░░░░░░░░░░░░░░░   38.50 % 
-Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
