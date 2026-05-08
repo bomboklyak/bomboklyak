@@ -8,13 +8,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               ██████████████░░░░░░░░░░░   55.17 % 
+Go                       1 min               ██████████░░░░░░░░░░░░░░░   39.02 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 
