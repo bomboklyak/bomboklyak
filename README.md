@@ -8,15 +8,15 @@
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 5 mins        ███████████████████████░░   91.10 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Go                       3 hrs 4 mins        ███████████████████████░░   93.63 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🔥 Editors: 
-GoLand                   2 hrs 15 mins       █████████████████████████   98.53 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+GoLand                   3 hrs 15 mins       █████████████████████████   98.98 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
