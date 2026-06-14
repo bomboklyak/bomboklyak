@@ -8,14 +8,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 15 mins        ████████████████████░░░░░   78.40 % 
-Python                   20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
