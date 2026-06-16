@@ -8,13 +8,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       23 mins             █████████████████████████   99.99 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
