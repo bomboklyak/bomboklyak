@@ -10,13 +10,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Protocol Buffer          24 mins             █████████████░░░░░░░░░░░░   52.48 % 
+GitIgnore file           20 mins             ███████████░░░░░░░░░░░░░░   44.89 % 
+Go                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
