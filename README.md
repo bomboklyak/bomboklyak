@@ -10,13 +10,13 @@
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 28 mins       █████████████████████████   100.00 % 
+C++                      1 hr 16 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-CLion                    2 hrs 28 mins       █████████████████████████   100.00 % 
+CLion                    1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
