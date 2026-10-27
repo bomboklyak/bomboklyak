@@ -10,13 +10,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
