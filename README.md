@@ -10,22 +10,24 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 8 mins         █████████████████████████   100.00 % 
+JSON                     1 hr 8 mins         ████████████████░░░░░░░░░   63.73 % 
+Go                       39 mins             █████████░░░░░░░░░░░░░░░░   36.27 % 
 
 🔥 Editors: 
-OpenCode                 1 hr 4 mins         ███████████████████████░░   93.87 % 
-GoLand                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+OpenCode                 1 hr 4 mins         ███████████████░░░░░░░░░░   59.82 % 
+GoLand                   43 mins             ██████████░░░░░░░░░░░░░░░   40.18 % 
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         ████████████████░░░░░░░░░   63.73 % 
+Windows                  39 mins             █████████░░░░░░░░░░░░░░░░   36.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (100.0%)
+⏱ AI Coding Time: 1 hr 8 mins (63.73%)
 
-✍️ 21 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 21 lines written by AI, 45 lines written by hand (31.82% AI-written)
 
 🔤 206,501 Input Tokens, 18,294 Output Tokens
 
@@ -37,10 +39,10 @@ Goland                   21 lines            ███████████�
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 31.82% of written lines came from AI
 📝 Concise Prompter — average 29 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.72% of changed lines were hand-edited
 ```
 
 
